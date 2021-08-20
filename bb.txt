@@ -1,0 +1,3 @@
+echo "create a new file"
+read file
+touch $file | echo "im new here"
